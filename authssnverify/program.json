@@ -1,14 +1,14 @@
 {
-  "program": "zkverify.aleo",
+  "program": "authssnverify.aleo",
   "version": "0.0.0",
   "description": "",
   "license": "MIT",
   "dependencies": [
     {
-      "name": "zkid.aleo",
+      "name": "authssniscool.aleo",
       "location": "local",
       "network": null,
-      "path": "../zkid"
+      "path": "../authssniscool"
     }
   ]
 }

@@ -1,6 +1,0 @@
-[[package]]
-name = "zkid.aleo"
-location = "local"
-path = "/Users/kevin/Work/hackathon/aleo-standard-programs/zkverify/../zkid"
-checksum = "6744c8f56ec4996d4192f7f5d576da600113e033dbd59731c590ae607f55c844"
-dependencies = []

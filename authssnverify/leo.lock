@@ -1,0 +1,6 @@
+[[package]]
+name = "authssniscool.aleo"
+location = "local"
+path = "/Users/kevin/Work/hackathon/aleo-standard-programs/authssnverify/../authssniscool"
+checksum = "dbaca1eaf6839cef98273201866f1b691bfb90bd11922a8465337b2cd7d65dc1"
+dependencies = []
