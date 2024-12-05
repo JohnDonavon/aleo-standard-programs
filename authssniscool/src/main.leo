@@ -1,5 +1,5 @@
 // The 'zkid' program.
-program zkid.aleo {
+program authssniscool.aleo {
     // Entity who can issue new ids
     const ADMIN: address = aleo15xd9tee983ts3urff8j22q64wvcyc8geakghyc3ew5u0v8jfuqgs958t6d;
 

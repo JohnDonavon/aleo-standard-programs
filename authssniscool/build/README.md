@@ -1,4 +1,4 @@
-# zkid.aleo
+# authssniscool.aleo
 
 ## Build Guide
 

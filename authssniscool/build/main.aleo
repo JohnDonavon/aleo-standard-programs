@@ -1,4 +1,4 @@
-program zkid.aleo;
+program authssniscool.aleo;
 
 struct data:
     ssn as scalar;
